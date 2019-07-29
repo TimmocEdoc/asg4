@@ -1,0 +1,11 @@
+D:\projects\asg\asg4\asg4\bin\Debug\netcoreapp2.2\asg4.deps.json
+D:\projects\asg\asg4\asg4\bin\Debug\netcoreapp2.2\asg4.runtimeconfig.json
+D:\projects\asg\asg4\asg4\bin\Debug\netcoreapp2.2\asg4.runtimeconfig.dev.json
+D:\projects\asg\asg4\asg4\bin\Debug\netcoreapp2.2\asg4.dll
+D:\projects\asg\asg4\asg4\bin\Debug\netcoreapp2.2\asg4.pdb
+D:\projects\asg\asg4\asg4\obj\Debug\netcoreapp2.2\asg4.csprojAssemblyReference.cache
+D:\projects\asg\asg4\asg4\obj\Debug\netcoreapp2.2\asg4.csproj.CoreCompileInputs.cache
+D:\projects\asg\asg4\asg4\obj\Debug\netcoreapp2.2\asg4.AssemblyInfoInputs.cache
+D:\projects\asg\asg4\asg4\obj\Debug\netcoreapp2.2\asg4.AssemblyInfo.cs
+D:\projects\asg\asg4\asg4\obj\Debug\netcoreapp2.2\asg4.dll
+D:\projects\asg\asg4\asg4\obj\Debug\netcoreapp2.2\asg4.pdb
